@@ -1,2 +1,2 @@
 # OfficeDocAnalysis
-Documentation and tools to analyze Office documents
+Educational documentation and tools to analyze Office documents.
